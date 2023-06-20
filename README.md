@@ -26,3 +26,73 @@ Before going into the application, we need to understand correctly the architect
 The application is designed for 1 type of users:
 ![User Roles](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/Roles.png)
 
+## Installation & Usage
+
+### Prerequisites:
+![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter)
+
+    Flutter: Proficiency in Flutter framework for cross-platform mobile app development, including knowledge of widgets, states, navigation, and UI design principles.
+
+![Firebase](https://img.shields.io/badge/Backend-Firebase-blue?logo=firebase)
+
+    Firebase: Familiarity with Firebase services, such as Authentication, Firestore database, and Firebase Storage. Understanding of data manipulation, user management, and permissions.
+
+![Dart](https://img.shields.io/badge/Language-Dart-blue?logo=dart)
+
+    Dart: Proficiency in Dart programming language, including knowledge of data types, functions, classes, and asynchronous programming.
+
+![IDE](https://img.shields.io/badge/IDE-Android%20Studio%20%7C%20Visual%20Studio%20Code-blue?logo=android-studio&logoColor=white)
+
+    Integrated Development Environment (IDE): Experience with Android Studio or Visual Studio Code with Flutter plugin for development, including project setup, debugging, and code navigation.
+
+![UI Design](https://img.shields.io/badge/UI%20Design-Principles-blue?logo=material-design)
+
+    UI Design Skills: Understanding of user interface design principles, ability to create visually appealing interfaces, and familiarity with Flutter's widget hierarchy and layout system.
+
+### Installation:
+ 
+ 1- Install Flutter:
+
+Download the Flutter SDK from the official Flutter website: Flutter SDK.
+Extract the downloaded SDK archive to a desired location on your computer.
+Add the Flutter SDK's bin directory to your system's PATH variable.
+ 
+ 2- Install Dart:
+
+Dart comes bundled with the Flutter SDK, so no separate installation is needed.
+ 
+ 3- Install an IDE:
+
+Android Studio: Download and install Android Studio from the official website: Android Studio.
+Visual Studio Code: Download and install Visual Studio Code from the official website: Visual Studio Code.
+
+ 4- Configure Flutter in your IDE:
+
+For Android Studio: Install the Flutter and Dart plugins through the plugin marketplace. Then, set the Flutter SDK path in the IDE's settings.
+For Visual Studio Code: Install the Flutter and Dart extensions from the Visual Studio Code marketplace.
+ 
+ 5- Set up Firebase:
+
+Create a new project in the Firebase console: Firebase Console.
+Enable the necessary Firebase services for your project, such as Authentication, Firestore, and Storage.
+Obtain the Firebase configuration files (google-services.json for Android and GoogleService-Info.plist for iOS) and add them to your Flutter project's respective platform folders.
+
+ 6- Install project dependencies:
+
+Open a terminal or command prompt and navigate to your Flutter project's root directory.
+Run the command flutter pub get to download and install the required dependencies specified in the project's pubspec.yaml file.
+
+ 7- Connect a physical device or start an emulator:
+
+Connect your physical device to your computer via USB or start an emulator using Android Studio's AVD Manager.
+
+ 8- Run the application:
+
+Open a terminal or command prompt and navigate to your Flutter project's root directory.
+Run the command flutter run to build and run your application on the connected device or emulator.
+
+By following these steps, you should have the necessary tools and dependencies installed to start running this Flutter Firebase application.
+
+### Usage
+Let's have a look on the project with some screenshoots from the inside, & let's begin with the Sign Up Screen:
+![Sign Up Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/SignUp.jpg)
