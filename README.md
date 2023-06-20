@@ -95,4 +95,17 @@ By following these steps, you should have the necessary tools and dependencies i
 
 ### Usage
 Let's have a look on the project with some screenshoots from the inside, & let's begin with the Sign Up Screen:
+
 ![Sign Up Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/SignUp.jpg)
+
+Once a user is signed up , he can sign in to his account : 
+
+![Sign In Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/SignIn.jpg)
+
+Then He can consulte his radio list and pick a radio to listen:
+
+![Radio List Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/List.jpg)
+
+and finally , his favorites radio list :
+
+![Fav Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/Fav.jpg)
