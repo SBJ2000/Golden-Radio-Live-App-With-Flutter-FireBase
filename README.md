@@ -109,3 +109,17 @@ Then He can consulte his radio list and pick a radio to listen:
 and finally , his favorites radio list :
 
 ![Fav Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/Fav.jpg)
+
+Let now have a look on our database :
+
+The first service to use will be "Authentication":
+![Fav Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/Auth.png)
+
+Then we will use the "Firestore DataBase" for the radio structure elements:
+
+![Fav Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/ListFirebase.png)
+
+
+and finally we will use the "Storage" for the radio logos :
+
+![Fav Page](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/Store.png)
