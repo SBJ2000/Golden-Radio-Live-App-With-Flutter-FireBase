@@ -9,7 +9,8 @@ Stay connected to the golden era of radio with this user-friendly and feature-ri
 ### Project Architecture :
 Before going into the application, we need to understand correctly the architecture that the developer adapted to build his project & what are the toold needed, which is in this case:
 ![Project Architecture](https://github.com/SBJ2000/Golden-Radio-Live-App-With-Flutter-FireBase/blob/main/Images/Architecture.png)
-####Role of Flutter components:
+### Role of Flutter components:
+
 1- Apis: This folder can contain the implementation of API services for interacting with Firebase services, such as authentication API or Firestore API.
 
 2- Models: The models folder can include the data models representing the structure of your Firestore documents. These models will help you parse and manipulate data retrieved from Firestore.
